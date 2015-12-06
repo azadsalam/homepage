@@ -1,0 +1,19 @@
+@font-face {
+    font-family: f2;
+    src: url('Perfect DOS VGA 437.ttf');
+}
+
+@font-face {
+    font-family: f1;
+    src: url('Perfect DOS VGA 437 Win.ttf');
+}
+body
+{
+	background-color:black;
+	color:white;
+	font-family: f2,f1,consolas;
+	font-weight: bold;
+	margin-left:2%;
+	margin-right:2%;
+}
+
